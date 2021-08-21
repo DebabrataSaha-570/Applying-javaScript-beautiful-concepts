@@ -7,7 +7,6 @@ function isEven(number) {
         return false;
     }
 }
-
 const myNumber = 1641;
 const isMyNumberEven = isEven(myNumber)
 console.log('is my number even', isMyNumberEven)
